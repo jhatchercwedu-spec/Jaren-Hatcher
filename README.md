@@ -9,3 +9,8 @@ The landing page uses a modern dark theme inspired by the Pixelforge Studios log
 
 ## Marketing Strategy
 The page emphasizes a strong value proposition, social proof, and clear calls-to-action to encourage client inquiries.
+<header class="hero">
+  <img src="images/logo.jpg" alt="Pixelforge Studios logo" class="logo">
+  <h1>Forging Bold Digital Experiences</h1>
+  <p>Modern branding, UI/UX, and digital design.</p>
+</header>
